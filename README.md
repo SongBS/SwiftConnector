@@ -19,8 +19,8 @@ pyinstaller.exe --noconsole --onefile SF_main.py
 
 ## Screenshots
 <div>
-![SwiftManager](https://user-images.githubusercontent.com/18394876/74812752-733e7080-5337-11ea-9da0-807c6d13b277.png)
+<img width="329" alt="SwiftManager" src="https://user-images.githubusercontent.com/18394876/74812752-733e7080-5337-11ea-9da0-807c6d13b277.png">
 <div>
-  
+
 
 
