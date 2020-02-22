@@ -1,6 +1,7 @@
 # Swift Manager
 * OpenStack Swift 스토리지 파일관리 툴
-* 스토리지 목록 조회/삭제/업로드/
+* 스토리지 목록 조회/삭제/업로드 기능 구현
+* 2014년 Swift 스토리기 기능확인을 위한 스터디 목적으로 구현
 
 ## Development Environment
 > Python 2.7, WxPython 
